@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Breno Lobo 👋
-Minhas habilidades incluem uma mente curiosa, capacidade de aprender rapidamente, sou comprometido, determinado e gosto de trabalhar em equipe.<br/><br/>
+Tenho 21 anos e sou apaixonado pelo mundo da programação. Atualmente, estou cursando Engenharia de Computação na Universidade Tecnológica Federal do Paraná, onde busco aprimorar meus conhecimentos e habilidades na área.<br/><br/>
 ![Breno Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoRLobo&show_icons=true&theme=dark)<br/>
 
 ## Tecnologias que eu uso no meu dia
@@ -14,6 +14,8 @@ Minhas habilidades incluem uma mente curiosa, capacidade de aprender rapidamente
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRLobo&hide_progress=demo&theme=dark)
+
+Minhas habilidades incluem uma mente curiosa, capacidade de aprender rapidamente, sou comprometido, determinado e gosto de trabalhar em equipe.
 
 ## Contatos
 
